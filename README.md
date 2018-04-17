@@ -1,6 +1,8 @@
 # ansible-role-wraith
 
 [![Build Status](https://travis-ci.org/linuxhq/ansible-role-wraith.svg?branch=master)](https://travis-ci.org/linuxhq/ansible-role-wraith)
+[![Ansible Galaxy](https://img.shields.io/badge/ansible--galaxy-wraith-blue.svg?style=flat)](https://galaxy.ansible.com/linuxhq/wraith)
+[![License](https://img.shields.io/badge/license-GPLv3-brightgreen.svg?style=flat)](COPYING)
 
 RHEL/CentOS - Wraith IRC Bot
 
