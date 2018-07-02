@@ -2,6 +2,7 @@
 dependencies:
   - linuxhq.linuxhq
 galaxy_info:
+  role_name: wraith
   author: tkimball83
   description: RHEL/CentOS - Wraith IRC Bot
   license: GPLv3
